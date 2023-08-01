@@ -2,11 +2,10 @@
 
 **Meeting minutes**
 
-**Date: 2023_07_25**
-
+**Date: 2023_07_25**  
 **Attendance: Meena, Leilaine, Andrii, Aziz, Arpita, Anagha, Sherry, Sravani, Sun Kyoung**
 
-Discussion:
+Discussion:  
   -Proposal of new data project  
   -Completion of Coursera IBM Data Analytics course prior to starting project  
   -Due date 2023-08-08 with possible extension to 2023-08-11  
@@ -15,20 +14,18 @@ Discussion:
   -Twice weekly meetings set Tuesday and Friday 1:30PM PST
 
 
-**Date: 2023-07-04**
-
+**Date: 2023-07-04**  
 **Attendance: Meena, Andrii, Leilaine**
 
-Discussion:
+Discussion:  
   -Completion of Coursera course and waiting for group to finish  
   -Time frame and potential scope of project  
 
 
-**Date: 2023-08-01**
-
+**Date: 2023-08-01**  
 **Attendance: Meena, Anagha, Sun Kyoung, Leilaine**
 
-Discussion:
+Discussion:  
   -Leilaine to create github and add group as collaborators  
   -Leilaine to add meeting minute file for future updates  
   -Due date 2023-08-02  
