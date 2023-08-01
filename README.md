@@ -2,9 +2,9 @@
 
 **Meeting minutes**
 
-**Date: 2023_07_25
+**Date: 2023_07_25**
 
-Attendance: Meena, Leilaine, Andrii, Aziz, Arpita, Anagha, Sherry, Sravani, Sun Kyoung**
+**Attendance: Meena, Leilaine, Andrii, Aziz, Arpita, Anagha, Sherry, Sravani, Sun Kyoung**
 
 Discussion:
   -Proposal of new data project  
@@ -15,16 +15,18 @@ Discussion:
   -Twice weekly meetings set Tuesday and Friday 1:30PM PST
 
 
-**Date: 2023-07-04
-Attendance: Meena, Andrii, Leilaine**
+**Date: 2023-07-04**
+
+**Attendance: Meena, Andrii, Leilaine**
 
 Discussion:
   -Completion of Coursera course and waiting for group to finish  
   -Time frame and potential scope of project  
 
 
-**Date: 2023-08-01
-Attendance: Meena, Anagha, Sun Kyoung, Leilaine**
+**Date: 2023-08-01**
+
+**Attendance: Meena, Anagha, Sun Kyoung, Leilaine**
 
 Discussion:
   -Leilaine to create github and add group as collaborators  
