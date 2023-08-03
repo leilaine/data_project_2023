@@ -35,14 +35,12 @@ Discussion:
   -Presented first to complete course to be leader  
   -Twice weekly meetings set Tuesday and Friday 1:30PM PST
 
-
 **Date: 2023-07-04**  
 **Attendance: Meena, Andrii, Leilaine**
 
 Discussion:  
   -Completion of Coursera course and waiting for group to finish  
   -Time frame and potential scope of project  
-
 
 **Date: 2023-08-01**  
 **Attendance: Meena, Anagha, Sun Kyoung, Leilaine**
@@ -54,3 +52,13 @@ Discussion:
     -Andrii and Leilaine to discuss and find project idea  
     -Collect data to be used for project  
   -Meeting to be held 2023-08-03 with group to assign roles  
+
+**Date: 2023-08-03**  
+**Attendance: Anagha, Andrii, Ashu, Leilaine, Sherry**  
+
+Discussion:  
+  -Ashu to create Google Colab jupyter notebook as Python will be used and code uploaded to Github on regular basis  
+  -Roles not to be specifically assigned at this time and work to be done together during all stages. Sherry is unable to start at same time so will begin her portion of the project at a later date. Leilaine will be away and while able to work may not be available for meetings  
+  -Vote of colums to be held for cleaning purposes and those columns are to be removed pre-exploratory analysis  
+  -Stages will be as follows: Clean, Exploratory Analysis, Clean and Normalize, Statistical Analysis, Visualisations, Presentation in form of dashboard  
+  -Decided, those who don't contribute in project will not be included as collaborators upon project completion  
